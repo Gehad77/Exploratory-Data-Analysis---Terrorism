@@ -2,7 +2,7 @@
 
 ** Project done during the Data Science & Analytics Internship at The Sparks Foundation **
 
-Task 2 - As a security/defense analyst, try to find out the hot zone of terrorism.
+Task 4 - As a security/defense analyst, try to find out the hot zone of terrorism.
 
 ● What all security issues and insights you can derive by EDA?
 
